@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub profile!
 
-![Profile views](https://komarev.com/ghpvc/?username=chanthornyoeun&label=Visitors&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=chanthornyoeun&color=green)
 
 ## Dev Card
 <a href="https://app.daily.dev/chanthornyoeun">
